@@ -1,0 +1,18 @@
+.home-page {
+  background: lightgoldenrodyellow;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  flex-flow: column;
+}
+
+.profile img {
+  border-radius: 50%;
+  padding: 0.5em;
+  background: gray;
+  width: 150px;
+  border: 3px solid black;
+}
